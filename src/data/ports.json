@@ -98,5 +98,13 @@
     "link": "https://github.com/postrednik/opencode-ayu-theme",
     "authors": [{ "name": "postrednik", "link": "https://github.com/postrednik/opencode-ayu-theme" }],
     "stats": { "github": "postrednik/opencode-ayu-theme" }
+  },
+  {
+    "name": "Obsidian",
+    "logo": "obsidian.svg",
+    "color": "constant",
+    "link": "https://github.com/iodic/obsidian-ayu-theme",
+    "authors": [{ "name": "iodic", "link": "https://github.com/iodic" }],
+    "stats": { "github": "iodic/obsidian-ayu-theme" }
   }
 ]
