@@ -35,9 +35,9 @@
     "name": "JetBrains",
     "logo": "jetbrains.svg",
     "color": "markup",
-    "link": "https://plugins.jetbrains.com/plugin/10318-ayu",
-    "soon": true,
-    "hidden": true
+    "link": "https://plugins.jetbrains.com/plugin/30373-ayu-islands",
+    "authors": [{ "name": "barad1tos", "link": "https://github.com/barad1tos" }],
+    "stats": { "github": "barad1tos/ayu-jetbrains" }
   },
   {
     "name": "Zed",
